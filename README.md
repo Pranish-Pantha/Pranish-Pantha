@@ -5,7 +5,7 @@ I'm Pranish Pantha, a student at Panther Creek High School in North Carolina.
 
 <a href="https://www.linkedin.com/in/pranish-pantha/"><img src="https://simpleicons.org/icons/linkedin.svg" height="5%" width="5%"></a>
 <a href="mailto:panthapranish4@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="5%" width="5%"></a>
-
+<a href="https://www.pranishpantha.me"><img src="https://www.pranishpantha.me/assets/img/logo.svg" height="5%" width="5%"></a>
 
 ### Experienced in 📚
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)
