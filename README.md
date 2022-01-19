@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student studying computer science at UNC-Chapel Hill. I strive to achieve academic excellence and community involvement.
+I am a student studying computer science and business at UNC-Chapel Hill. I strive to achieve academic excellence and community involvement.
 
 <a href="https://www.linkedin.com/in/pranish-pantha/"><img src="https://simpleicons.org/icons/linkedin.svg" height="5%" width="5%"></a>
 <a href="mailto:panthapranish4@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="5%" width="5%"></a>
