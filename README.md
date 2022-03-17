@@ -18,5 +18,5 @@ I am a student studying computer science and business at UNC-Chapel Hill. I stri
   <img align="center" width="45%" height="50%" style="margin-right:1%" src="https://github-readme-stats.vercel.app/api?username=pranish-pantha&show_icons=true&theme=radical&count_private=true&hide=stars,prs&include_all_commits=true" />
 </a>
 <a href="https://github.com/pranish-pantha">
-  <img align="center" width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish-pantha&exclude_repo=VRC-2019-20,Programming-Competition&layout=compact" />
+  <img align="center" width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish-pantha&exclude_repo=VEX-Robotics-2020,Programming-Competition&layout=compact" />
 </a>
