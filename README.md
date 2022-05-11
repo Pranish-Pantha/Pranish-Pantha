@@ -1,22 +1,14 @@
 ### Hi there 👋
 
-I am a student studying computer science and business at UNC-Chapel Hill. I strive to achieve academic excellence and community involvement.
+I am a student studying Computer Science and Business at UNC Chapel Hill.
 
-<a href="https://www.linkedin.com/in/pranish-pantha/"><img src="https://simpleicons.org/icons/linkedin.svg" height="5%" width="5%"></a>
-<a href="mailto:panthapranish4@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="5%" width="5%"></a>
+<a href="https://www.linkedin.com/in/pranish-pantha/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="5%" width="5%"/></a>
 <a href="https://pranishpantha.me"><img src="https://pranishpantha.me/assets/img/logo.svg" height="5%" width="5%"></a>
 
 ### Experienced in 📚
-![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Library-Django-green?style=flat-square&logo=django&logoColor=white) 
-![](https://img.shields.io/badge/Code-HTML/CSS-blue?style=flat-square&logo=html5&logoColor=white)
-
-
-
-### Stats
-<a href="https://github.com/pranish-pantha">
-  <img align="center" width="45%" height="50%" style="margin-right:1%" src="https://github-readme-stats.vercel.app/api?username=pranish-pantha&show_icons=true&theme=radical&count_private=true&hide=stars,prs&include_all_commits=true" />
-</a>
-<a href="https://github.com/pranish-pantha">
-  <img align="center" width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranish-pantha&exclude_repo=VEX-Robotics-2020,Programming-Competition&layout=compact" />
-</a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="5%" width="5%"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="5%" width="5%"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="5%" width="5%"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="5%" width="5%"/></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="5%" width="5%"/></a>
