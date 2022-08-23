@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student studying Computer Science and Business at UNC Chapel Hill.
+I am a student studying Computer Science and Statistics at UNC Chapel Hill.
 
 <a href="https://www.linkedin.com/in/pranish-pantha/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="5%" width="5%"/></a>
