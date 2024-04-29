@@ -16,4 +16,4 @@ My passion is in software engineering + data science + cloud computing
 <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="5%" width="5%"/></a>
 
 ### Education 🏫
-<a href="https://cs.unc.edu/" target="_blank" rel="noopener noreferrer"><img src="https://identity2.sites.unc.edu/wp-content/uploads/sites/885/2019/01/Old_Well_mark.png" height="5%" width="5%"/></a>
+<a href="https://cs.unc.edu/" target="_blank" rel="noopener noreferrer"><img src="https://advising.unc.edu/wp-content/uploads/sites/341/2019/04/LogoIcon-300x300.png" height="5%" width="5%"/></a>
